@@ -139,7 +139,7 @@ export default function Home() {
       {/* Proposal Section */}
       <section className="w-3/5 h-96 bg-[#f3f3f3] rounded-3xl flex justify-between px-10 my-10">
         <div className="w-2/5 flex flex-col justify-between py-14">
-          <h3 className="text-3xl font-mono font-semibold">Let's make things happen</h3>
+          <h3 className="text-3xl font-mono font-semibold">Let us make things happen</h3>
           <p className="text-lg">Contact us today to learn more about how our digital marketing services can help your business grow and succeed online.</p>
           <button className="border-solid border-2 border-black rounded-md py-4 px-6 bg-black text-white text-base font-medium mt-5">Get your free proposal</button>
         </div>
@@ -222,7 +222,7 @@ export default function Home() {
       <section className="w-3/5 my-10">
         <div className="flex items-center">
         <h2 className="text-5xl font-mono font-semibold px-1 py-1 rounded-md bg-lime-400">Contact</h2>
-        <p className="text-xl ml-8">Connect with Us: Let's Discuss Your Digital Marketing Needs.</p>
+        <p className="text-xl ml-8">Connect with Us: Let us Discuss Your Digital Marketing Needs.</p>
         </div>
       </section>
 
